@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Já os governos devem criar políticas que promovam energias renováveis, reflorestamento e proteção de áreas naturais.",
-                afirmacao:"nao."
+                afirmacao:"não."
             }
         ]
     },
@@ -28,7 +28,7 @@ const perguntas = [
             },
             {
                 texto: "A educação ambiental capacita indivíduos a entenderem as consequências de suas ações, estimulando a adoção de hábitos sustentáveis.",
-                afirmacao:"nao"
+                afirmacao:"não"
             }
         ]
     },
@@ -41,7 +41,7 @@ const perguntas = [
             },
             {
                 texto: "Outro desafio e a resistência cultural e econômica de algumas comunidades que dependem de atividades que causam danos ambientais.",
-                afirmacao:"nao."
+                afirmacao:"não."
             }
         ]
     },
@@ -54,7 +54,7 @@ const perguntas = [
             },
             {
                 texto: "A perda da biodiversidade pode comprometer os serviços ecossistêmicos essenciais, como a polinização de plantas e purificação da água.",
-                afirmacao:"nao."
+                afirmacao:"não."
             }
         ]
     },
