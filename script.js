@@ -10,9 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Indivíduos podem adotar ações cotidianas para a sustentabilidade, como reduzir o uso de plásticos, economizar água e recolher transportes sustentáveis.",
+                afirmacao:"sim."
             },
             {
-                texto: "Já os governos devem criar políticas que promovam energias renováveis, reflorestamento e proteção de áreas naturais."
+                texto: "Já os governos devem criar políticas que promovam energias renováveis, reflorestamento e proteção de áreas naturais.",
+                afirmacao:"nao."
             }
         ]
     },
@@ -20,10 +22,13 @@ const perguntas = [
         enunciado: "De que maneira a educação ambiental pode influenciar a conscientização da população sobre a importância da preservação dos recursos naturais especialmente em um mundo onde as informações estão facilmente disponíveis?",
         alternativas: [
             {
-                texto: "A educação ambiental aumenta a conscientização sobre os impactos das ações humanas."
+                texto: "A educação ambiental aumenta a conscientização sobre os impactos das ações humanas.",
+                afirmacao:"sim."
+
             },
             {
-                texto: "A educação ambiental capacita indivíduos a entenderem as consequências de suas ações, estimulando a adoção de hábitos sustentáveis.
+                texto: "A educação ambiental capacita indivíduos a entenderem as consequências de suas ações, estimulando a adoção de hábitos sustentáveis.",
+                afirmacao:"nao"
             }
         ]
     },
@@ -32,9 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Um dos pincipais desafios é a falta de recursos financeiros e infraestruturas adequada para executar projetos de conservação em regiões mais pobres.",
+                afirmacao:"sim."
             },
             {
                 texto: "Outro desafio e a resistência cultural e econômica de algumas comunidades que dependem de atividades que causam danos ambientais.",
+                afirmacao:"nao."
             }
         ]
     },
@@ -43,22 +50,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "As mudanças climáticas levam a alteração de habitantes naturais, resultando na extinção de espécies que não consequem se adptar rapidamente, o que afeta negativamente a biodiversidade.",
+                afirmacao:"sim."
             },
             {
                 texto: "A perda da biodiversidade pode comprometer os serviços ecossistêmicos essenciais, como a polinização de plantas e purificação da água.",
-            }
-        ]
-    },
-    {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
-            {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao:"nao."
             }
         ]
     },
