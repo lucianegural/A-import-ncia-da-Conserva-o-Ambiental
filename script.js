@@ -12,7 +12,7 @@ const perguntas = [
                 texto: "Indivíduos podem adotar ações cotidianas para a sustentabilidade, como reduzir o uso de plásticos, economizar água e recolher transportes sustentáveis.",
             },
             {
-                texto: "Já os governos devem criar políticas que promovam energias renováveis, reflorestamento e proteção de áreas naturais.",
+                texto: "Já os governos devem criar políticas que promovam energias renováveis, reflorestamento e proteção de áreas naturais."
             }
         ]
     },
